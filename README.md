@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofcyouryadav" alt="ofcyouryadav" /></a> </p>
 
-- 🔭 I’m currently working on [Destroyer Music](https://discord.gg/maxonfire)
+- 🔭 I’m currently working on [Destroyer Music](https://discord.gg/)
 
 - 🌱 I’m currently learning **Python,React.js,Html**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/maxonfire](https://discord.gg/maxonfire)
+- 👨‍💻 All of my projects are available at [https://discord.gg/](https://discord.gg/)
 
 - 💬 Ask me about **Anything About JavaScript,TypeScript,CSS**
 
