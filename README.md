@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yadav</h1>
-<h3 align="center">Yeah, I'm a l3aker 😎</h3>
+<h1 align="center">Hi, I'm Yadav</h1>
+<h3 align="center">Yeah, I'm a l3aker </h3>
 <h4 align="center">A passionate frontend developer from India</h4>
 
 <p align="center">
@@ -12,14 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;JavaScript+Enthusiast;React+Explorer;Tech+Lover;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ofcyouryadav&label=Profile%20views&color=0e75b6&style=flat" alt="ofcyouryadav" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofcyouryadav&theme=tokyonight" alt="ofcyouryadav" /></a>
-</p>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Code-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -27,18 +19,11 @@
   <img src="https://img.shields.io/badge/Focus-Tech-%23FF4D9D?style=for-the-badge" />
 </div>
 
-- 🔭 I’m currently working on [Destroyer Music](https://discord.gg/)
-- 🌱 I’m currently learning **Python, React.js, HTML**
-- 👨‍💻 All of my projects are available at [https://discord.gg/](https://discord.gg/)
-- 💬 Ask me about **JavaScript, TypeScript, CSS, React**
-- 📫 How to reach me: **mrnewar1@gmail.com**
-- ⚡ Fun fact: **Code. Create. Conquer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
   <a href="https://instagram.com/ofcyouryamraj.xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="mailto:mrnewar1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
